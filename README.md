@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria Sarmento
 - I’m interested in software engineering and criminal investigation.
-- I’m currently learning computer engineering at Universidade de Coimbra.
+- This is my portfolio as a student of computer engineering at Universidade de Coimbra.
 - How to reach me: mariateixeirasarmento@hotmail.com.
 
 <!---
